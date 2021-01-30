@@ -1,7 +1,8 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": ".",
+  "homepage":"http://arunteltia.github.io/arunteltia.github.io",
+  
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
@@ -18,7 +19,6 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "fs": "0.0.1-security",
-    "gh-pages": "^2.1.1",
     "graphql": "^14.5.8",
     "node-fetch": "^2.6.0",
     "node-sass": "^4.14.1",
@@ -39,6 +39,7 @@
   "devDependencies": {
     "@iconify/icons-logos": "^1.0.9",
     "@iconify/react": "^1.1.1",
+    "gh-pages": "^2.2.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
