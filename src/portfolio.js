@@ -1,79 +1,74 @@
-
 const settings = {
-  isSplash: true, 
+  isSplash: true,
 };
 
 //Home Page
 const greeting = {
   title: "Arun Teltia",
   logo_name: "ArunTeltia",
-  nickname: "T3rr01st",
+  nickname: "ProB0MBER",
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable, social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1Qqc46AgvLYeko1Ys-wwV-PF1XmD7XTHA/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+  portfolio_repository: "https://github.com/ArunTeltia/ArunTeltia.github.io",
 };
 
 const socialMediaLinks = [
-
-
   {
     name: "Github",
     link: "https://github.com/ArunTeltia",
-    fontAwesomeIcon: "fa-github", 
+    fontAwesomeIcon: "fa-github",
     backgroundColor: "#181717",
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/arun-teltia/",
-    fontAwesomeIcon: "fa-linkedin-in", 
-    backgroundColor: "#0077B5", 
+    fontAwesomeIcon: "fa-linkedin-in",
+    backgroundColor: "#0077B5",
   },
   {
     name: "YouTube",
     link: "https://www.youtube.com/channel/UCZE_5ujI3CyaAW7Q9wpda7Q",
-    fontAwesomeIcon: "fa-youtube", 
+    fontAwesomeIcon: "fa-youtube",
     backgroundColor: "#FF0000",
   },
   {
     name: "Gmail",
     link: "mailto:teltia.arun18@gmail.com",
-    fontAwesomeIcon: "fa-google", 
-    backgroundColor: "#D14836", 
+    fontAwesomeIcon: "fa-google",
+    backgroundColor: "#D14836",
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/ArunTeltia2",
-    fontAwesomeIcon: "fa-twitter", 
-    backgroundColor: "#1DA1F2", 
+    link: "https://twitter.com/ArunTeltia_",
+    fontAwesomeIcon: "fa-twitter",
+    backgroundColor: "#1DA1F2",
   },
   {
     name: "Facebook",
     link: "https://www.facebook.com/arun.teltia.3/",
-    fontAwesomeIcon: "fa-facebook-f", 
-    backgroundColor: "#1877F2", 
+    fontAwesomeIcon: "fa-facebook-f",
+    backgroundColor: "#1877F2",
   },
   {
     name: "Instagram",
     link: "https://www.instagram.com/teltia.arun45/",
-    fontAwesomeIcon: "fa-instagram", 
-    backgroundColor: "#E4405F", 
+    fontAwesomeIcon: "fa-instagram",
+    backgroundColor: "#E4405F",
   },
   {
     name: "Medium",
     link: "https://teltia-arun18.medium.com/",
-    fontAwesomeIcon: "fa-medium", 
-    backgroundColor: "black", 
+    fontAwesomeIcon: "fa-medium",
+    backgroundColor: "black",
   },
   {
     name: "Stack Overflow",
     link: "https://stackoverflow.com/users/10623832/arun",
-    fontAwesomeIcon: "fa-stack-overflow", 
-    backgroundColor: "orange", 
+    fontAwesomeIcon: "fa-stack-overflow",
+    backgroundColor: "orange",
   },
-  
-  
 ];
 
 const skills = {
@@ -287,8 +282,7 @@ const certifications = {
       title: "Understand C++",
       subtitle: "- Ermin Kreponic",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.udemy.com/certificate/UC-5E32MADF/",
+      certificate_link: "https://www.udemy.com/certificate/UC-5E32MADF/",
       alt_name: "Udemy",
       color_code: "#0C9D5899",
     },
@@ -296,8 +290,7 @@ const certifications = {
       title: "Fundamental of Computer Hacking",
       subtitle: "- Alex Aklson",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.udemy.com/certificate/UC-WA8SKNLR/",
+      certificate_link: "https://www.udemy.com/certificate/UC-WA8SKNLR/",
       alt_name: "Udemy",
       color_code: "#1F70C199",
     },
@@ -305,12 +298,10 @@ const certifications = {
       title: "CRUX Java ",
       subtitle: "- Garima Chikkara",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "Coding Blocks",
       color_code: "#D83B0199",
     },
-  
   ],
 };
 
@@ -326,7 +317,7 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Web Developer",
+          title: "Co Founder and Web Developer",
           company: "Project Sakura",
           company_url: "https://projectsakura.xyz/",
           logo_path: "sakura.png",
@@ -336,11 +327,33 @@ const experience = {
             "I am working on the website and I am responsible for all the changes that are being done in the website ",
           color: "#0879bf",
         },
+        {
+          title: "DSA Buddy Lead",
+          company: "Girl Code it",
+          company_url: "https://www.mesh.ai/",
+          logo_path: "girlcodeit.png",
+          duration: "Feb 2021 - Jun 2021",
+          location: "Delhi, India",
+          description:
+            "Coached various Data Structures and Algorithms to the learners and resolved their doubts, Monitored the progress of 120 learners on various coding platforms and Lead a team of 20 mentors to provide the best guidance to the learners(mentees).",
+          color: "#ee3c26",
+        },
       ],
     },
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Full Stack Web Developer",
+          company: "Mesh (YC S20)",
+          company_url: "https://www.mesh.ai/",
+          logo_path: "meshpng.png",
+          duration: "Feb 2021 - Jun 2021",
+          location: "Gurgaon, Haryana",
+          description:
+            "Developed website collaborating with marketing team, Designed the micro services based architecture in Productive Stack., Managed data to make charts and led the SEO part of the website., Hosted frontend on S3 bucket and backend on AWS Lambda.",
+          color: "#ee3c26",
+        },
         {
           title: "Full Stack Web Developer",
           company: "Springfield Olympiad Private Limited",
@@ -349,7 +362,7 @@ const experience = {
           duration: "May 2020 - Aug 2020",
           location: "Gurgaon, Haryana",
           description:
-            "I have worked with Node, SQL,MongoDB,Git, Express and Build optimized database by establishing relationships among different entities and normalize them and managed database as a DB admin and maintained the connection between backend and designed and implemented the backend CRUD APIs in MVC framework and then Hosted the website on AWS EC2 Instance and worked on NGINX for reverse proxy.",
+            "Designed REST API using Express and handled auth using JWT and Passport.,Refractored PHP codebase to React, Delivered the backend’s CRUD APIs in MVC framework,Hosted the website on AWS EC2 Instance with NGINX as port forwarder",
           color: "#ee3c26",
         },
       ],
@@ -358,7 +371,7 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Mentor",
+          title: "Teacher",
           company: "Mait",
           company_url: "https://cse.mait.ac.in",
           logo_path: "mait.png",
@@ -379,7 +392,6 @@ const experience = {
             "I am a teaching assistant in girls code it and i am helping freshers and non coders to get started with data structure in c++ and java and also helping them to get started with web development",
           color: "#D83B01",
         },
-        
       ],
     },
   ],
@@ -410,8 +422,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: 
-      "Provided on Contact",
+    subtitle: "Provided on Contact",
     avatar_image_path: "address_image.svg",
     location_map_link: "",
   },

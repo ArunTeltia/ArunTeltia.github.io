@@ -1,1 +1,2428 @@
-{"data":[{"id":"MDExOlB1bGxSZXF1ZXN0NTE3ODY1ODg4","title":"asus not available","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/87","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-11-09T16:00:54Z","number":87,"changedFiles":2,"additions":43,"deletions":2,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE3ODQ4OTYy","title":"Android 11","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/86","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-11-09T15:35:59Z","number":86,"changedFiles":7,"additions":764,"deletions":503,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE3MTA3NTUz","title":"recaptcha created","url":"https://github.com/internetarchive/openlibrary/pull/4048","state":"OPEN","mergedBy":null,"createdAt":"2020-11-07T08:36:48Z","number":4048,"changedFiles":4,"additions":18,"deletions":6,"baseRepository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTEzMDc5NzU4","title":"HTML_Validation manually checked","url":"https://github.com/internetarchive/openlibrary/pull/3977","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-30T15:19:59Z","number":3977,"changedFiles":28,"additions":94,"deletions":92,"baseRepository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTEzMDU1OTQw","title":"valign HTML to vertical-align CSS","url":"https://github.com/internetarchive/openlibrary/pull/3976","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-30T14:43:56Z","number":3976,"changedFiles":6,"additions":21,"deletions":15,"baseRepository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTEyODk2Nzgz","title":"table-content data aligned","url":"https://github.com/internetarchive/openlibrary/pull/3974","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-30T10:20:56Z","number":3974,"changedFiles":2,"additions":3,"deletions":3,"baseRepository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTExNjAxMzM2","title":"hover message fixed","url":"https://github.com/internetarchive/bookreader/pull/520","state":"OPEN","mergedBy":null,"createdAt":"2020-10-28T14:42:52Z","number":520,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTExNTQwMzMw","title":"font-color changed of table content","url":"https://github.com/internetarchive/bookreader/pull/516","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-28T13:19:07Z","number":516,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTA5NTQ1Nzc3","title":"rendered message fixed","url":"https://github.com/internetarchive/bookreader/pull/506","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/7840857?u=170bac2271970547ca7af75283826ca3d4d404de&v=4","url":"https://github.com/iisa","login":"iisa"},"createdAt":"2020-10-25T06:38:29Z","number":506,"changedFiles":1,"additions":5,"deletions":1,"baseRepository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTA2NTI4MjAy","title":"refractor the Mode2up L2R R2L flip code","url":"https://github.com/internetarchive/bookreader/pull/502","state":"OPEN","mergedBy":null,"createdAt":"2020-10-20T06:59:35Z","number":502,"changedFiles":1,"additions":142,"deletions":201,"baseRepository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTAzNzY4ODYx","title":"docker setup video link fixed","url":"https://github.com/internetarchive/openlibrary/pull/3921","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/978325?u=e820ce549d7436c30a9025308ea52589c641f7b2&v=4","url":"https://github.com/mekarpeles","login":"mekarpeles"},"createdAt":"2020-10-15T03:03:25Z","number":3921,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTAzNjU4NDAz","title":"Solves: Overflow on \"Check Availability\" button","url":"https://github.com/internetarchive/openlibrary/pull/3918","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-14T21:17:40Z","number":3918,"changedFiles":2,"additions":2,"deletions":2,"baseRepository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDk5NTA0MzM4","title":"vanilla javascript conversion from jquery(new method)","url":"https://github.com/lakshita15/EXCEL_CLONE/pull/2","state":"OPEN","mergedBy":null,"createdAt":"2020-10-07T20:39:46Z","number":2,"changedFiles":1,"additions":328,"deletions":321,"baseRepository":{"name":"EXCEL_CLONE","url":"https://github.com/lakshita15/EXCEL_CLONE","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/66481666?u=5fa2d5b5dddd8978bdde36f154168c5dc1c4c326&v=4","login":"lakshita15","url":"https://github.com/lakshita15"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDk3NTQyMTI1","title":"card collapsing fixed in course and faq card","url":"https://github.com/codeforcauseorg/codeforcause.org/pull/121","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/25343183?u=918e1a3cc2ba15d234566b8a4764388370f40724&v=4","url":"https://github.com/KeenWarrior","login":"KeenWarrior"},"createdAt":"2020-10-05T02:11:44Z","number":121,"changedFiles":3,"additions":15,"deletions":6,"baseRepository":{"name":"codeforcause.org","url":"https://github.com/codeforcauseorg/codeforcause.org","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/64211771?v=4","login":"codeforcauseorg","url":"https://github.com/codeforcauseorg"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDk3NTEyMjkz","title":"scrollbar css changed","url":"https://github.com/codeforcauseorg/codeforcause.org/pull/120","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/25343183?u=918e1a3cc2ba15d234566b8a4764388370f40724&v=4","url":"https://github.com/KeenWarrior","login":"KeenWarrior"},"createdAt":"2020-10-04T22:59:49Z","number":120,"changedFiles":2,"additions":38,"deletions":0,"baseRepository":{"name":"codeforcause.org","url":"https://github.com/codeforcauseorg/codeforcause.org","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/64211771?v=4","login":"codeforcauseorg","url":"https://github.com/codeforcauseorg"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDk3MjEyMzMx","title":"add semi rule in eslintrc","url":"https://github.com/internetarchive/bookreader/pull/485","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-03T04:25:21Z","number":485,"changedFiles":39,"additions":160,"deletions":159,"baseRepository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDk3MjA4MjA4","title":"add semi rule in eslintrc","url":"https://github.com/internetarchive/bookreader/pull/484","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-03T03:43:42Z","number":484,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDk3MTI4MjYy","title":"add semi rule in eslintrc","url":"https://github.com/internetarchive/bookreader/pull/481","state":"CLOSED","mergedBy":null,"createdAt":"2020-10-02T20:47:56Z","number":481,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","login":"internetarchive","url":"https://github.com/internetarchive"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDk2ODUyOTcw","title":"berryllium +ginkgo support dropped from download page","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/82","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-10-02T11:37:58Z","number":82,"changedFiles":1,"additions":4,"deletions":4,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDkzODUzNjU2","title":"ads aligned in latest post+ removed game and donation msg added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/78","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-28T04:08:50Z","number":78,"changedFiles":11,"additions":328,"deletions":466,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDkzODMwODY5","title":"ad bug fixed and added on download","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/77","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-28T02:37:47Z","number":77,"changedFiles":1,"additions":12,"deletions":21,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDkyMDY4NjM5","title":"ads section added + css changes","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/76","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-23T22:15:11Z","number":76,"changedFiles":1,"additions":9,"deletions":42,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDkxNjg3NTIy","title":"donation updated","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/75","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-23T10:50:05Z","number":75,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg5OTMxMzg0","title":"sorted device by most download in stats","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/74","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-20T17:19:03Z","number":74,"changedFiles":2,"additions":15,"deletions":4,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg5MzI2MzYw","title":"browser specific bug fixed(list rendering)","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/73","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-18T13:47:06Z","number":73,"changedFiles":1,"additions":10,"deletions":1,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg4MDM2MjIy","title":"name changed from jasmine to jasmine_sprout","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/72","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-16T14:36:52Z","number":72,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg3OTQ0MDgx","title":"modal height adjusted","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/71","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-16T12:10:32Z","number":71,"changedFiles":1,"additions":3,"deletions":12,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg3ODY4ODQ2","title":"modal fixed","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/70","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-16T09:52:09Z","number":70,"changedFiles":2,"additions":41,"deletions":6,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg2NzgyMjM2","title":"Promise allsettled to all for compatibility in all browsers","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/69","state":"CLOSED","mergedBy":null,"createdAt":"2020-09-14T17:50:29Z","number":69,"changedFiles":2,"additions":2,"deletions":2,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg2NzU5MjQy","title":"ads in the middle of card and list","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/68","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-14T17:04:19Z","number":68,"changedFiles":1,"additions":12,"deletions":11,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg2MTg5NDE4","title":"temporary fix for model","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/67","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-13T14:24:27Z","number":67,"changedFiles":1,"additions":6,"deletions":2,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg2MTcwMzI4","title":"fixed the order of samsung device+ ad reallocated","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/66","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-13T11:45:46Z","number":66,"changedFiles":2,"additions":18,"deletions":16,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg2MTYyNjk3","title":"some change for fixing ad issue","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/65","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-13T10:36:45Z","number":65,"changedFiles":1,"additions":11,"deletions":0,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg2MTYxMzEy","title":"m20lte added + add ad@download","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/64","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-13T10:24:02Z","number":64,"changedFiles":3,"additions":21,"deletions":14,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg1OTIzODI4","title":"modal and ad fixed","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/63","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-12T14:39:54Z","number":63,"changedFiles":1,"additions":13,"deletions":23,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg1ODQyMzIz","title":"modal fixed + 404 error fixed in index+lottie error fixed","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/62","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-12T09:29:52Z","number":62,"changedFiles":2,"additions":8,"deletions":11,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg1MDQxNTc3","title":"bugs fixing","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/61","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-11T12:53:22Z","number":61,"changedFiles":2,"additions":6,"deletions":7,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDg0ODgzNzIy","title":"loader in stats upto 8 second+ ads in download page","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/60","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-11T09:52:57Z","number":60,"changedFiles":3,"additions":19,"deletions":11,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgzNDIzNjg1","title":"loader changed in stats","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/59","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-10T06:12:13Z","number":59,"changedFiles":1,"additions":13,"deletions":1,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgzMzUzODA4","title":"Modal is responsive + the amout of bomb is halved","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/58","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-10T04:16:25Z","number":58,"changedFiles":2,"additions":7,"deletions":1,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgzMDI2NDA4","title":"added loading animation","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/57","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-09T17:58:40Z","number":57,"changedFiles":2,"additions":23,"deletions":4,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgzMDE4NjE3","title":"loader removed and color changed to a bright one","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/56","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-09T17:42:53Z","number":56,"changedFiles":1,"additions":13,"deletions":19,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgzMDA3ODA4","title":"ad removed + double click bug fixed+ lower the brightness of button","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/55","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-09T17:20:56Z","number":55,"changedFiles":2,"additions":6,"deletions":12,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyOTk4Nzgy","title":"android 11 coming+ download page modified","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/54","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-09T17:03:07Z","number":54,"changedFiles":3,"additions":210,"deletions":28,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyNjU4NTcy","title":"refractor website removing unnecessary files","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/52","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-09T08:37:53Z","number":52,"changedFiles":12,"additions":8,"deletions":2201,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyNjMxMTU3","title":"Test","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/51","state":"CLOSED","mergedBy":null,"createdAt":"2020-09-09T08:06:35Z","number":51,"changedFiles":13,"additions":6,"deletions":2829,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyMjI1NzUy","title":"removing unnecessary files and minor change in main page","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/50","state":"CLOSED","mergedBy":null,"createdAt":"2020-09-08T18:36:19Z","number":50,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyMTcxODI1","title":"parallex removed + navbar fixed in index","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/49","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-08T16:46:34Z","number":49,"changedFiles":2,"additions":55,"deletions":120,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyMDczOTg1","title":"minimised screenshot and maintainers image","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/48","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-08T14:13:24Z","number":48,"changedFiles":27,"additions":0,"deletions":0,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyMDYyMzE2","title":"loader removed","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/47","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-08T13:56:32Z","number":47,"changedFiles":1,"additions":2,"deletions":16,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgyMDUyMzM0","title":"screenshots updated+ mantainer image minified","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/46","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-08T13:41:57Z","number":46,"changedFiles":35,"additions":32,"deletions":50,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgxOTQxMjMx","title":"Lets integrate ads","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/45","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-08T10:20:12Z","number":45,"changedFiles":5,"additions":269,"deletions":114,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgxOTE1Nzk4","title":"Ad integration in the website","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/44","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-08T09:38:28Z","number":44,"changedFiles":6,"additions":216,"deletions":110,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgxNzk1MzE2","title":"adding ads to download page","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/43","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-08T06:02:19Z","number":43,"changedFiles":2,"additions":17,"deletions":5,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgxMzg1NzA1","title":"ads.txt added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/42","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-07T13:22:06Z","number":42,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgxMjgxOTYz","title":"temperory fix for loader in download","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/41","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-07T10:51:28Z","number":41,"changedFiles":1,"additions":7,"deletions":7,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgwNzYzMTQ4","title":"mantainer(a9ito) added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/40","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-06T13:16:31Z","number":40,"changedFiles":5,"additions":67,"deletions":110,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgwNjgwMTM3","title":"joyeuse added in stats+downloads+ loader time tweaked+stats refractor","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/39","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-06T07:50:39Z","number":39,"changedFiles":6,"additions":142,"deletions":606,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgwNTc2OTQ0","title":"donation style changed with responsiveness","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/38","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-05T20:02:40Z","number":38,"changedFiles":1,"additions":44,"deletions":17,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc5NDI1NDAx","title":"loader on download page added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/37","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-04T08:14:01Z","number":37,"changedFiles":3,"additions":201,"deletions":184,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc4NzQxMjY1","title":"donation progress bar added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/36","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-03T16:12:47Z","number":36,"changedFiles":3,"additions":61,"deletions":8,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc4NjQ4NjE2","title":"adsense script","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/35","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-03T13:51:33Z","number":35,"changedFiles":1,"additions":3,"deletions":0,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc4MzcyNTEw","title":"refractor the download page","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/34","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-03T05:45:44Z","number":34,"changedFiles":5,"additions":359,"deletions":1610,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc3NjgzNjE1","title":"mobile name fixed and rearranged","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/33","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-02T09:13:23Z","number":33,"changedFiles":3,"additions":22,"deletions":21,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc3NjQyNjAw","title":"jasmine added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/32","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-09-02T07:56:13Z","number":32,"changedFiles":6,"additions":87,"deletions":2,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc2MzQyOTc5","title":"samsung rz Kernel message removed + sailfish added in stats","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/31","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-31T14:41:28Z","number":31,"changedFiles":3,"additions":381,"deletions":378,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc2MDU2NDQy","title":"spell mistake fixed","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/30","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-31T05:31:04Z","number":30,"changedFiles":1,"additions":10,"deletions":13,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDc1ODg1OTEw","title":"moto g3 dropped + lower the amount of bomb +sailfish/marlin added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/29","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-30T09:18:03Z","number":29,"changedFiles":6,"additions":167,"deletions":19,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMTAzMjA5","title":"(one plus fixed+ ginkgo added) in stats","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/28","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-23T10:08:06Z","number":28,"changedFiles":2,"additions":124,"deletions":99,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDk5Mzg4","title":"maintainers alignment fixed + ginkgo maintainer added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/27","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-23T09:30:25Z","number":27,"changedFiles":6,"additions":68,"deletions":3,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY4ODQwNzgw","title":"whyred maintainer added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/26","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-17T13:42:12Z","number":26,"changedFiles":2,"additions":30,"deletions":14,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY4ODEwNzU2","title":"style error fixed + 2 members added","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/25","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-17T12:48:44Z","number":25,"changedFiles":3,"additions":85,"deletions":51,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY2MjU1MTUw","title":"github revision","url":"https://github.com/AdityaTeltia/GitHub-Finder/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/67232537?u=c20fab0b3facf4563dfb0ec86dbba5c1693ecd25&v=4","url":"https://github.com/AdityaTeltia","login":"AdityaTeltia"},"createdAt":"2020-08-11T17:44:18Z","number":1,"changedFiles":1,"additions":7,"deletions":2,"baseRepository":{"name":"GitHub-Finder","url":"https://github.com/AdityaTeltia/GitHub-Finder","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/67232537?u=c20fab0b3facf4563dfb0ec86dbba5c1693ecd25&v=4","login":"AdityaTeltia","url":"https://github.com/AdityaTeltia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY1OTg4NDgw","title":"paypal button changed +svg of paypal addded","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/24","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-11T09:35:32Z","number":24,"changedFiles":1,"additions":24,"deletions":2,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY1NDk0NjY1","title":"stats percentage + paypal at download","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/23","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-10T13:18:19Z","number":23,"changedFiles":3,"additions":105,"deletions":7,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY1MTg0MTY3","title":"message on modal title+favicon in stats+fixed download page 🙄","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/22","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-09T18:13:53Z","number":22,"changedFiles":5,"additions":178,"deletions":107,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY1MTc3MTc4","title":"favicon added in stats ","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/21","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-09T17:08:57Z","number":21,"changedFiles":2,"additions":92,"deletions":92,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY1MTYyNTI3","title":"5 star message in heading +stats of wayne +flavicon at stats is not done","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/20","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-09T15:02:42Z","number":20,"changedFiles":3,"additions":79,"deletions":10,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY1MTI5ODc1","title":"m1872 download data fetch","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/19","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-09T09:35:58Z","number":19,"changedFiles":4,"additions":23,"deletions":3,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY1MTI2Mzc2","title":"wayne stats fix+ meizu 16th download fix +search bar fix","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/18","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-09T08:56:14Z","number":18,"changedFiles":3,"additions":23,"deletions":4,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY0OTQ2MTYz","title":"changelogs url","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/17","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-08T03:47:43Z","number":17,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY0OTMyODY4","title":"minor change","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/16","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-08T02:21:16Z","number":16,"changedFiles":1,"additions":684,"deletions":685,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY0NzcxODg4","title":"responsiveness of minesweeper","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/15","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-07T19:02:38Z","number":15,"changedFiles":2,"additions":10,"deletions":3,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY0NzE3NTUz","title":"logs removed + minisweeper added on download click+river data fetched+ added changelog for meizu 16X","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/14","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-07T16:59:24Z","number":14,"changedFiles":7,"additions":423,"deletions":147,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY0NDc5ODI3","title":"modal minor change + scroll.js refractor","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/13","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-07T08:49:22Z","number":13,"changedFiles":8,"additions":80,"deletions":81,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY0MDcwNzY3","title":"close button fixed ","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/12","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-06T14:39:29Z","number":12,"changedFiles":1,"additions":34,"deletions":8,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDY0MDExNTMz","title":"source change log beside official devices","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/11","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-08-06T12:59:26Z","number":11,"changedFiles":2,"additions":89,"deletions":46,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDU4NDk5Mjg4","title":"changelog in download + mantainer added in index","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/9","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-07-29T15:03:54Z","number":9,"changedFiles":7,"additions":868,"deletions":394,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDU3OTczNDg5","title":"change log added ","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/8","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-07-28T18:20:14Z","number":8,"changedFiles":4,"additions":898,"deletions":4,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDQ3OTAyOTkx","title":"Maintainer are added and some minor changes","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-07-12T13:51:02Z","number":5,"changedFiles":2,"additions":222,"deletions":139,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDQ3ODA3MDc3","title":"search bar is added to search mobile in download","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-07-11T19:24:39Z","number":4,"changedFiles":2,"additions":437,"deletions":389,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDQ2MDc5NTAy","title":"removed clickable image link","url":"https://github.com/ProjectSakura/ProjectSakura.github.io/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4","url":"https://github.com/LordShenron","login":"LordShenron"},"createdAt":"2020-07-08T08:25:13Z","number":3,"changedFiles":1,"additions":8,"deletions":20,"baseRepository":{"name":"ProjectSakura.github.io","url":"https://github.com/ProjectSakura/ProjectSakura.github.io","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/60218698?v=4","login":"ProjectSakura","url":"https://github.com/ProjectSakura"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDM4MTMyNTcy","title":"Arun Teltia added his json file","url":"https://github.com/codeforcauseorg/pledge/pull/44","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/55276189?u=9f0711dedd3758b464009b59d878372306dd9281&v=4","url":"https://github.com/GangaChatrvedi","login":"GangaChatrvedi"},"createdAt":"2020-06-22T19:23:32Z","number":44,"changedFiles":1,"additions":10,"deletions":0,"baseRepository":{"name":"pledge","url":"https://github.com/codeforcauseorg/pledge","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/64211771?v=4","login":"codeforcauseorg","url":"https://github.com/codeforcauseorg"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDMzNTU5NjE1","title":"B3","url":"https://github.com/ArunTeltia/GeeksPortal/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/43555219?u=460053566641a1f5a0218660b1abfa3141fe94aa&v=4","url":"https://github.com/ArunTeltia","login":"ArunTeltia"},"createdAt":"2020-06-12T09:06:41Z","number":1,"changedFiles":31,"additions":2599,"deletions":3422,"baseRepository":{"name":"GeeksPortal","url":"https://github.com/ArunTeltia/GeeksPortal","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/43555219?u=460053566641a1f5a0218660b1abfa3141fe94aa&v=4","login":"ArunTeltia","url":"https://github.com/ArunTeltia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDE5NjA0MDkx","title":"The text of login with opt was overflowing has been fixed","url":"https://github.com/coding-blocks/motley/pull/436","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/1327050?v=4","url":"https://github.com/championswimmer","login":"championswimmer"},"createdAt":"2020-05-18T16:15:02Z","number":436,"changedFiles":1,"additions":3,"deletions":0,"baseRepository":{"name":"motley","url":"https://github.com/coding-blocks/motley","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/19412721?v=4","login":"coding-blocks","url":"https://github.com/coding-blocks"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY4MjA1ODU1","title":"Api is changed in the latest version","url":"https://github.com/bradtraversy/devconnector_2.0/pull/69","state":"CLOSED","mergedBy":null,"createdAt":"2020-01-28T20:09:27Z","number":69,"changedFiles":1,"additions":3,"deletions":3,"baseRepository":{"name":"devconnector_2.0","url":"https://github.com/bradtraversy/devconnector_2.0","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/5550850?u=fd608e37006781e0847825dc4045469eb4efbeed&v=4","login":"bradtraversy","url":"https://github.com/bradtraversy"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzM4MjY0NjEy","title":"Create java_ArunTeltia","url":"https://github.com/Vishwas-verma/AlgorithmsDaily/pull/4","state":"CLOSED","mergedBy":null,"createdAt":"2019-11-07T22:07:23Z","number":4,"changedFiles":1,"additions":44,"deletions":0,"baseRepository":{"name":"AlgorithmsDaily","url":"https://github.com/Vishwas-verma/AlgorithmsDaily","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/41827033?v=4","login":"Vishwas-verma","url":"https://github.com/Vishwas-verma"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI3NDYxMjUw","title":"add","url":"https://github.com/rhythmjayee/HTMLeditor/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2019-10-12T12:39:38Z","number":1,"changedFiles":1,"additions":0,"deletions":0,"baseRepository":{"name":"HTMLeditor","url":"https://github.com/rhythmjayee/HTMLeditor","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/48250163?u=5f8e2c67557b844d95d88b6ad06cd2976c63f517&v=4","login":"rhythmjayee","url":"https://github.com/rhythmjayee"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI3NDYwOTU3","title":"added file","url":"https://github.com/rhythmjayee/firsttesting/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2019-10-12T12:36:02Z","number":1,"changedFiles":1,"additions":0,"deletions":0,"baseRepository":{"name":"firsttesting","url":"https://github.com/rhythmjayee/firsttesting","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/48250163?u=5f8e2c67557b844d95d88b6ad06cd2976c63f517&v=4","login":"rhythmjayee","url":"https://github.com/rhythmjayee"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI3NDYwNjIx","title":"added file","url":"https://github.com/rhythmjayee/Bufferreader-and-StringBuffer/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2019-10-12T12:31:01Z","number":1,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"Bufferreader-and-StringBuffer","url":"https://github.com/rhythmjayee/Bufferreader-and-StringBuffer","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/48250163?u=5f8e2c67557b844d95d88b6ad06cd2976c63f517&v=4","login":"rhythmjayee","url":"https://github.com/rhythmjayee"}}}],"open":7,"closed":13,"merged":80,"totalCount":100}
+{
+  "closed": 13,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTE3ODQ4OTYy",
+      "title": "Android 11",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/86",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-11-09T15:35:59Z",
+      "number": 86,
+      "changedFiles": 7,
+      "additions": 764,
+      "deletions": 503,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTE3MTA3NTUz",
+      "title": "recaptcha created",
+      "url": "https://github.com/internetarchive/openlibrary/pull/4048",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-11-07T08:36:48Z",
+      "number": 4048,
+      "changedFiles": 4,
+      "additions": 18,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTEzMDc5NzU4",
+      "title": "HTML_Validation manually checked",
+      "url": "https://github.com/internetarchive/openlibrary/pull/3977",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-30T15:19:59Z",
+      "number": 3977,
+      "changedFiles": 28,
+      "additions": 94,
+      "deletions": 92,
+      "baseRepository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTEzMDU1OTQw",
+      "title": "valign HTML to vertical-align CSS",
+      "url": "https://github.com/internetarchive/openlibrary/pull/3976",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-30T14:43:56Z",
+      "number": 3976,
+      "changedFiles": 6,
+      "additions": 21,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTEyODk2Nzgz",
+      "title": "table-content data aligned",
+      "url": "https://github.com/internetarchive/openlibrary/pull/3974",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-30T10:20:56Z",
+      "number": 3974,
+      "changedFiles": 2,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTExNjAxMzM2",
+      "title": "hover message fixed",
+      "url": "https://github.com/internetarchive/bookreader/pull/520",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-10-28T14:42:52Z",
+      "number": 520,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTExNTQwMzMw",
+      "title": "font-color changed of table content",
+      "url": "https://github.com/internetarchive/bookreader/pull/516",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-28T13:19:07Z",
+      "number": 516,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTA5NTQ1Nzc3",
+      "title": "rendered message fixed",
+      "url": "https://github.com/internetarchive/bookreader/pull/506",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7840857?u=170bac2271970547ca7af75283826ca3d4d404de&v=4",
+        "url": "https://github.com/iisa",
+        "login": "iisa"
+      },
+      "createdAt": "2020-10-25T06:38:29Z",
+      "number": 506,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTA2NTI4MjAy",
+      "title": "refractor the Mode2up L2R R2L flip code",
+      "url": "https://github.com/internetarchive/bookreader/pull/502",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-10-20T06:59:35Z",
+      "number": 502,
+      "changedFiles": 1,
+      "additions": 142,
+      "deletions": 201,
+      "baseRepository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTAzNzY4ODYx",
+      "title": "docker setup video link fixed",
+      "url": "https://github.com/internetarchive/openlibrary/pull/3921",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/978325?u=e820ce549d7436c30a9025308ea52589c641f7b2&v=4",
+        "url": "https://github.com/mekarpeles",
+        "login": "mekarpeles"
+      },
+      "createdAt": "2020-10-15T03:03:25Z",
+      "number": 3921,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTAzNjU4NDAz",
+      "title": "Solves: Overflow on \"Check Availability\" button",
+      "url": "https://github.com/internetarchive/openlibrary/pull/3918",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-14T21:17:40Z",
+      "number": 3918,
+      "changedFiles": 2,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5NTA0MzM4",
+      "title": "vanilla javascript conversion from jquery(new method)",
+      "url": "https://github.com/lakshita15/EXCEL_CLONE/pull/2",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-10-07T20:39:46Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 328,
+      "deletions": 321,
+      "baseRepository": {
+        "name": "EXCEL_CLONE",
+        "url": "https://github.com/lakshita15/EXCEL_CLONE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/66481666?u=5fa2d5b5dddd8978bdde36f154168c5dc1c4c326&v=4",
+          "login": "lakshita15",
+          "url": "https://github.com/lakshita15"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3NTQyMTI1",
+      "title": "card collapsing fixed in course and faq card",
+      "url": "https://github.com/codeforcauseorg/codeforcause.org/pull/121",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25343183?u=918e1a3cc2ba15d234566b8a4764388370f40724&v=4",
+        "url": "https://github.com/KeenWarrior",
+        "login": "KeenWarrior"
+      },
+      "createdAt": "2020-10-05T02:11:44Z",
+      "number": 121,
+      "changedFiles": 3,
+      "additions": 15,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "codeforcause.org",
+        "url": "https://github.com/codeforcauseorg/codeforcause.org",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64211771?v=4",
+          "login": "codeforcauseorg",
+          "url": "https://github.com/codeforcauseorg"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3NTEyMjkz",
+      "title": "scrollbar css changed",
+      "url": "https://github.com/codeforcauseorg/codeforcause.org/pull/120",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25343183?u=918e1a3cc2ba15d234566b8a4764388370f40724&v=4",
+        "url": "https://github.com/KeenWarrior",
+        "login": "KeenWarrior"
+      },
+      "createdAt": "2020-10-04T22:59:49Z",
+      "number": 120,
+      "changedFiles": 2,
+      "additions": 38,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "codeforcause.org",
+        "url": "https://github.com/codeforcauseorg/codeforcause.org",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64211771?v=4",
+          "login": "codeforcauseorg",
+          "url": "https://github.com/codeforcauseorg"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3MjEyMzMx",
+      "title": "add semi rule in eslintrc",
+      "url": "https://github.com/internetarchive/bookreader/pull/485",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-03T04:25:21Z",
+      "number": 485,
+      "changedFiles": 39,
+      "additions": 160,
+      "deletions": 159,
+      "baseRepository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3MjA4MjA4",
+      "title": "add semi rule in eslintrc",
+      "url": "https://github.com/internetarchive/bookreader/pull/484",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-03T03:43:42Z",
+      "number": 484,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3MTI4MjYy",
+      "title": "add semi rule in eslintrc",
+      "url": "https://github.com/internetarchive/bookreader/pull/481",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-02T20:47:56Z",
+      "number": 481,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "login": "internetarchive",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2ODUyOTcw",
+      "title": "berryllium +ginkgo support dropped from download page",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/82",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-10-02T11:37:58Z",
+      "number": 82,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzODUzNjU2",
+      "title": "ads aligned in latest post+ removed game and donation msg added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/78",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-28T04:08:50Z",
+      "number": 78,
+      "changedFiles": 11,
+      "additions": 328,
+      "deletions": 466,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzODMwODY5",
+      "title": "ad bug fixed and added on download",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/77",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-28T02:37:47Z",
+      "number": 77,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkyMDY4NjM5",
+      "title": "ads section added + css changes",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/76",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-23T22:15:11Z",
+      "number": 76,
+      "changedFiles": 1,
+      "additions": 9,
+      "deletions": 42,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkxNjg3NTIy",
+      "title": "donation updated",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/75",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-23T10:50:05Z",
+      "number": 75,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg5OTMxMzg0",
+      "title": "sorted device by most download in stats",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/74",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-20T17:19:03Z",
+      "number": 74,
+      "changedFiles": 2,
+      "additions": 15,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg5MzI2MzYw",
+      "title": "browser specific bug fixed(list rendering)",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/73",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-18T13:47:06Z",
+      "number": 73,
+      "changedFiles": 1,
+      "additions": 10,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg4MDM2MjIy",
+      "title": "name changed from jasmine to jasmine_sprout",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/72",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-16T14:36:52Z",
+      "number": 72,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg3OTQ0MDgx",
+      "title": "modal height adjusted",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/71",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-16T12:10:32Z",
+      "number": 71,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg3ODY4ODQ2",
+      "title": "modal fixed",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/70",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-16T09:52:09Z",
+      "number": 70,
+      "changedFiles": 2,
+      "additions": 41,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2NzgyMjM2",
+      "title": "Promise allsettled to all for compatibility in all browsers",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/69",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-14T17:50:29Z",
+      "number": 69,
+      "changedFiles": 2,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2NzU5MjQy",
+      "title": "ads in the middle of card and list",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/68",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-14T17:04:19Z",
+      "number": 68,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MTg5NDE4",
+      "title": "temporary fix for model",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/67",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-13T14:24:27Z",
+      "number": 67,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MTcwMzI4",
+      "title": "fixed the order of samsung device+ ad reallocated",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/66",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-13T11:45:46Z",
+      "number": 66,
+      "changedFiles": 2,
+      "additions": 18,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MTYyNjk3",
+      "title": "some change for fixing ad issue",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/65",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-13T10:36:45Z",
+      "number": 65,
+      "changedFiles": 1,
+      "additions": 11,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MTYxMzEy",
+      "title": "m20lte added + add ad@download",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/64",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-13T10:24:02Z",
+      "number": 64,
+      "changedFiles": 3,
+      "additions": 21,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg1OTIzODI4",
+      "title": "modal and ad fixed",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/63",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-12T14:39:54Z",
+      "number": 63,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg1ODQyMzIz",
+      "title": "modal fixed + 404 error fixed in index+lottie error fixed",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/62",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-12T09:29:52Z",
+      "number": 62,
+      "changedFiles": 2,
+      "additions": 8,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg1MDQxNTc3",
+      "title": "bugs fixing",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/61",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-11T12:53:22Z",
+      "number": 61,
+      "changedFiles": 2,
+      "additions": 6,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg0ODgzNzIy",
+      "title": "loader in stats upto 8 second+ ads in download page",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/60",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-11T09:52:57Z",
+      "number": 60,
+      "changedFiles": 3,
+      "additions": 19,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgzNDIzNjg1",
+      "title": "loader changed in stats",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/59",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-10T06:12:13Z",
+      "number": 59,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgzMzUzODA4",
+      "title": "Modal is responsive + the amout of bomb is halved",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/58",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-10T04:16:25Z",
+      "number": 58,
+      "changedFiles": 2,
+      "additions": 7,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgzMDI2NDA4",
+      "title": "added loading animation",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/57",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-09T17:58:40Z",
+      "number": 57,
+      "changedFiles": 2,
+      "additions": 23,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgzMDE4NjE3",
+      "title": "loader removed and color changed to a bright one",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/56",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-09T17:42:53Z",
+      "number": 56,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgzMDA3ODA4",
+      "title": "ad removed + double click bug fixed+ lower the brightness of button",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/55",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-09T17:20:56Z",
+      "number": 55,
+      "changedFiles": 2,
+      "additions": 6,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyOTk4Nzgy",
+      "title": "android 11 coming+ download page modified",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/54",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-09T17:03:07Z",
+      "number": 54,
+      "changedFiles": 3,
+      "additions": 210,
+      "deletions": 28,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyNjU4NTcy",
+      "title": "refractor website removing unnecessary files",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/52",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-09T08:37:53Z",
+      "number": 52,
+      "changedFiles": 12,
+      "additions": 8,
+      "deletions": 2201,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyNjMxMTU3",
+      "title": "Test",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/51",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-09T08:06:35Z",
+      "number": 51,
+      "changedFiles": 13,
+      "additions": 6,
+      "deletions": 2829,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyMjI1NzUy",
+      "title": "removing unnecessary files and minor change in main page",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/50",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-08T18:36:19Z",
+      "number": 50,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyMTcxODI1",
+      "title": "parallex removed + navbar fixed in index",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/49",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-08T16:46:34Z",
+      "number": 49,
+      "changedFiles": 2,
+      "additions": 55,
+      "deletions": 120,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyMDczOTg1",
+      "title": "minimised screenshot and maintainers image",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/48",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-08T14:13:24Z",
+      "number": 48,
+      "changedFiles": 27,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyMDYyMzE2",
+      "title": "loader removed",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/47",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-08T13:56:32Z",
+      "number": 47,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgyMDUyMzM0",
+      "title": "screenshots updated+ mantainer image minified",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/46",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-08T13:41:57Z",
+      "number": 46,
+      "changedFiles": 35,
+      "additions": 32,
+      "deletions": 50,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgxOTQxMjMx",
+      "title": "Lets integrate ads",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/45",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-08T10:20:12Z",
+      "number": 45,
+      "changedFiles": 5,
+      "additions": 269,
+      "deletions": 114,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgxOTE1Nzk4",
+      "title": "Ad integration in the website",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-08T09:38:28Z",
+      "number": 44,
+      "changedFiles": 6,
+      "additions": 216,
+      "deletions": 110,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgxNzk1MzE2",
+      "title": "adding ads to download page",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/43",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-08T06:02:19Z",
+      "number": 43,
+      "changedFiles": 2,
+      "additions": 17,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgxMzg1NzA1",
+      "title": "ads.txt added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/42",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-07T13:22:06Z",
+      "number": 42,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgxMjgxOTYz",
+      "title": "temperory fix for loader in download",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/41",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-07T10:51:28Z",
+      "number": 41,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwNzYzMTQ4",
+      "title": "mantainer(a9ito) added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-06T13:16:31Z",
+      "number": 40,
+      "changedFiles": 5,
+      "additions": 67,
+      "deletions": 110,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwNjgwMTM3",
+      "title": "joyeuse added in stats+downloads+ loader time tweaked+stats refractor",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/39",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-06T07:50:39Z",
+      "number": 39,
+      "changedFiles": 6,
+      "additions": 142,
+      "deletions": 606,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwNTc2OTQ0",
+      "title": "donation style changed with responsiveness",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/38",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-05T20:02:40Z",
+      "number": 38,
+      "changedFiles": 1,
+      "additions": 44,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc5NDI1NDAx",
+      "title": "loader on download page added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/37",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-04T08:14:01Z",
+      "number": 37,
+      "changedFiles": 3,
+      "additions": 201,
+      "deletions": 184,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NzQxMjY1",
+      "title": "donation progress bar added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/36",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-03T16:12:47Z",
+      "number": 36,
+      "changedFiles": 3,
+      "additions": 61,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NjQ4NjE2",
+      "title": "adsense script",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/35",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-03T13:51:33Z",
+      "number": 35,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4MzcyNTEw",
+      "title": "refractor the download page",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/34",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-03T05:45:44Z",
+      "number": 34,
+      "changedFiles": 5,
+      "additions": 359,
+      "deletions": 1610,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc3NjgzNjE1",
+      "title": "mobile name fixed and rearranged",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/33",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-02T09:13:23Z",
+      "number": 33,
+      "changedFiles": 3,
+      "additions": 22,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc3NjQyNjAw",
+      "title": "jasmine added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/32",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-09-02T07:56:13Z",
+      "number": 32,
+      "changedFiles": 6,
+      "additions": 87,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2MzQyOTc5",
+      "title": "samsung rz Kernel message removed + sailfish added in stats",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/31",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-31T14:41:28Z",
+      "number": 31,
+      "changedFiles": 3,
+      "additions": 381,
+      "deletions": 378,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2MDU2NDQy",
+      "title": "spell mistake fixed",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/30",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-31T05:31:04Z",
+      "number": 30,
+      "changedFiles": 1,
+      "additions": 10,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc1ODg1OTEw",
+      "title": "moto g3 dropped + lower the amount of bomb +sailfish/marlin added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/29",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-30T09:18:03Z",
+      "number": 29,
+      "changedFiles": 6,
+      "additions": 167,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDcyMTAzMjA5",
+      "title": "(one plus fixed+ ginkgo added) in stats",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/28",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-23T10:08:06Z",
+      "number": 28,
+      "changedFiles": 2,
+      "additions": 124,
+      "deletions": 99,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDcyMDk5Mzg4",
+      "title": "maintainers alignment fixed + ginkgo maintainer added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/27",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-23T09:30:25Z",
+      "number": 27,
+      "changedFiles": 6,
+      "additions": 68,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY4ODQwNzgw",
+      "title": "whyred maintainer added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-17T13:42:12Z",
+      "number": 26,
+      "changedFiles": 2,
+      "additions": 30,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY4ODEwNzU2",
+      "title": "style error fixed + 2 members added",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-17T12:48:44Z",
+      "number": 25,
+      "changedFiles": 3,
+      "additions": 85,
+      "deletions": 51,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY2MjU1MTUw",
+      "title": "github revision",
+      "url": "https://github.com/AdityaTeltia/GitHub-Finder/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67232537?u=c20fab0b3facf4563dfb0ec86dbba5c1693ecd25&v=4",
+        "url": "https://github.com/AdityaTeltia",
+        "login": "AdityaTeltia"
+      },
+      "createdAt": "2020-08-11T17:44:18Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "GitHub-Finder",
+        "url": "https://github.com/AdityaTeltia/GitHub-Finder",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67232537?u=c20fab0b3facf4563dfb0ec86dbba5c1693ecd25&v=4",
+          "login": "AdityaTeltia",
+          "url": "https://github.com/AdityaTeltia"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY1OTg4NDgw",
+      "title": "paypal button changed +svg of paypal addded",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-11T09:35:32Z",
+      "number": 24,
+      "changedFiles": 1,
+      "additions": 24,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY1NDk0NjY1",
+      "title": "stats percentage + paypal at download",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/23",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-10T13:18:19Z",
+      "number": 23,
+      "changedFiles": 3,
+      "additions": 105,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY1MTg0MTY3",
+      "title": "message on modal title+favicon in stats+fixed download page 🙄",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-09T18:13:53Z",
+      "number": 22,
+      "changedFiles": 5,
+      "additions": 178,
+      "deletions": 107,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY1MTc3MTc4",
+      "title": "favicon added in stats ",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-09T17:08:57Z",
+      "number": 21,
+      "changedFiles": 2,
+      "additions": 92,
+      "deletions": 92,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY1MTYyNTI3",
+      "title": "5 star message in heading +stats of wayne +flavicon at stats is not done",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-09T15:02:42Z",
+      "number": 20,
+      "changedFiles": 3,
+      "additions": 79,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY1MTI5ODc1",
+      "title": "m1872 download data fetch",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-09T09:35:58Z",
+      "number": 19,
+      "changedFiles": 4,
+      "additions": 23,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY1MTI2Mzc2",
+      "title": "wayne stats fix+ meizu 16th download fix +search bar fix",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-09T08:56:14Z",
+      "number": 18,
+      "changedFiles": 3,
+      "additions": 23,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0OTQ2MTYz",
+      "title": "changelogs url",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-08T03:47:43Z",
+      "number": 17,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0OTMyODY4",
+      "title": "minor change",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-08T02:21:16Z",
+      "number": 16,
+      "changedFiles": 1,
+      "additions": 684,
+      "deletions": 685,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0NzcxODg4",
+      "title": "responsiveness of minesweeper",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-07T19:02:38Z",
+      "number": 15,
+      "changedFiles": 2,
+      "additions": 10,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0NzE3NTUz",
+      "title": "logs removed + minisweeper added on download click+river data fetched+ added changelog for meizu 16X",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-07T16:59:24Z",
+      "number": 14,
+      "changedFiles": 7,
+      "additions": 423,
+      "deletions": 147,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0NDc5ODI3",
+      "title": "modal minor change + scroll.js refractor",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-07T08:49:22Z",
+      "number": 13,
+      "changedFiles": 8,
+      "additions": 80,
+      "deletions": 81,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0MDcwNzY3",
+      "title": "close button fixed ",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-06T14:39:29Z",
+      "number": 12,
+      "changedFiles": 1,
+      "additions": 34,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0MDExNTMz",
+      "title": "source change log beside official devices",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-08-06T12:59:26Z",
+      "number": 11,
+      "changedFiles": 2,
+      "additions": 89,
+      "deletions": 46,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU4NDk5Mjg4",
+      "title": "changelog in download + mantainer added in index",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-07-29T15:03:54Z",
+      "number": 9,
+      "changedFiles": 7,
+      "additions": 868,
+      "deletions": 394,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU3OTczNDg5",
+      "title": "change log added ",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-07-28T18:20:14Z",
+      "number": 8,
+      "changedFiles": 4,
+      "additions": 898,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ3OTAyOTkx",
+      "title": "Maintainer are added and some minor changes",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-07-12T13:51:02Z",
+      "number": 5,
+      "changedFiles": 2,
+      "additions": 222,
+      "deletions": 139,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ3ODA3MDc3",
+      "title": "search bar is added to search mobile in download",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-07-11T19:24:39Z",
+      "number": 4,
+      "changedFiles": 2,
+      "additions": 437,
+      "deletions": 389,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ2MDc5NTAy",
+      "title": "removed clickable image link",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30292727?u=0e1ff49e0cde523195442ad39835058ffa733253&v=4",
+        "url": "https://github.com/LordShenron",
+        "login": "LordShenron"
+      },
+      "createdAt": "2020-07-08T08:25:13Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 8,
+      "deletions": 20,
+      "baseRepository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "login": "ProjectSakura",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDM4MTMyNTcy",
+      "title": "Arun Teltia added his json file",
+      "url": "https://github.com/codeforcauseorg/pledge/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55276189?u=9f0711dedd3758b464009b59d878372306dd9281&v=4",
+        "url": "https://github.com/GangaChatrvedi",
+        "login": "GangaChatrvedi"
+      },
+      "createdAt": "2020-06-22T19:23:32Z",
+      "number": 44,
+      "changedFiles": 1,
+      "additions": 10,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "pledge",
+        "url": "https://github.com/codeforcauseorg/pledge",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64211771?v=4",
+          "login": "codeforcauseorg",
+          "url": "https://github.com/codeforcauseorg"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDMzNTU5NjE1",
+      "title": "B3",
+      "url": "https://github.com/ArunTeltia/GeeksPortal/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43555219?u=635c2bc3b0289aabeaed2af2903be0a76dfeff71&v=4",
+        "url": "https://github.com/ArunTeltia",
+        "login": "ArunTeltia"
+      },
+      "createdAt": "2020-06-12T09:06:41Z",
+      "number": 1,
+      "changedFiles": 31,
+      "additions": 2599,
+      "deletions": 3422,
+      "baseRepository": {
+        "name": "GeeksPortal",
+        "url": "https://github.com/ArunTeltia/GeeksPortal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43555219?u=635c2bc3b0289aabeaed2af2903be0a76dfeff71&v=4",
+          "login": "ArunTeltia",
+          "url": "https://github.com/ArunTeltia"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI3MjYzNjA2",
+      "title": "B2",
+      "url": "https://github.com/rhythmjayee/SFO_GeeksPotal/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43555219?u=635c2bc3b0289aabeaed2af2903be0a76dfeff71&v=4",
+        "url": "https://github.com/ArunTeltia",
+        "login": "ArunTeltia"
+      },
+      "createdAt": "2020-06-03T15:03:04Z",
+      "number": 1,
+      "changedFiles": 8,
+      "additions": 3225,
+      "deletions": 1605,
+      "baseRepository": {
+        "name": "SFO_GeeksPotal",
+        "url": "https://github.com/rhythmjayee/SFO_GeeksPotal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48250163?u=5f8e2c67557b844d95d88b6ad06cd2976c63f517&v=4",
+          "login": "rhythmjayee",
+          "url": "https://github.com/rhythmjayee"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE5NjA0MDkx",
+      "title": "The text of login with opt was overflowing has been fixed",
+      "url": "https://github.com/coding-blocks/motley/pull/436",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1327050?v=4",
+        "url": "https://github.com/championswimmer",
+        "login": "championswimmer"
+      },
+      "createdAt": "2020-05-18T16:15:02Z",
+      "number": 436,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "motley",
+        "url": "https://github.com/coding-blocks/motley",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19412721?v=4",
+          "login": "coding-blocks",
+          "url": "https://github.com/coding-blocks"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzY4MjA1ODU1",
+      "title": "Api is changed in the latest version",
+      "url": "https://github.com/bradtraversy/devconnector_2.0/pull/69",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-01-28T20:09:27Z",
+      "number": 69,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "devconnector_2.0",
+        "url": "https://github.com/bradtraversy/devconnector_2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5550850?u=819e4404506d906d5113cc352b560fcfd242cce3&v=4",
+          "login": "bradtraversy",
+          "url": "https://github.com/bradtraversy"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzM4MjY0NjEy",
+      "title": "Create java_ArunTeltia",
+      "url": "https://github.com/Vishwas-verma/AlgorithmsDaily/pull/4",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2019-11-07T22:07:23Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 44,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "AlgorithmsDaily",
+        "url": "https://github.com/Vishwas-verma/AlgorithmsDaily",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/41827033?v=4",
+          "login": "Vishwas-verma",
+          "url": "https://github.com/Vishwas-verma"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3NDYxMjUw",
+      "title": "add",
+      "url": "https://github.com/rhythmjayee/HTMLeditor/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-12T12:39:38Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "HTMLeditor",
+        "url": "https://github.com/rhythmjayee/HTMLeditor",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48250163?u=5f8e2c67557b844d95d88b6ad06cd2976c63f517&v=4",
+          "login": "rhythmjayee",
+          "url": "https://github.com/rhythmjayee"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3NDYwOTU3",
+      "title": "added file",
+      "url": "https://github.com/rhythmjayee/firsttesting/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-12T12:36:02Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "firsttesting",
+        "url": "https://github.com/rhythmjayee/firsttesting",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48250163?u=5f8e2c67557b844d95d88b6ad06cd2976c63f517&v=4",
+          "login": "rhythmjayee",
+          "url": "https://github.com/rhythmjayee"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3NDYwNjIx",
+      "title": "added file",
+      "url": "https://github.com/rhythmjayee/Bufferreader-and-StringBuffer/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-12T12:31:01Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Bufferreader-and-StringBuffer",
+        "url": "https://github.com/rhythmjayee/Bufferreader-and-StringBuffer",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48250163?u=5f8e2c67557b844d95d88b6ad06cd2976c63f517&v=4",
+          "login": "rhythmjayee",
+          "url": "https://github.com/rhythmjayee"
+        }
+      }
+    }
+  ],
+  "merged": 80,
+  "open": 7,
+  "totalCount": 100
+}

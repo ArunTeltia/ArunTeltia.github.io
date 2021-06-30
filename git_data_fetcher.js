@@ -1,5 +1,5 @@
 const openSource = {
-  githubConvertedToken: "9514378c83261bc5486de86b3ad0080fc9d8a41a",
+  githubConvertedToken: "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",
   githubUserName: "ArunTeltia",
 };
 
@@ -293,6 +293,7 @@ fetch(baseUrl, {
       }
     );
   })
-  .catch((error) =>
-    console.log("Error occured in pinned projects 2", JSON.stringify(error))
-  );
+  .catch((error) => {
+    console.log(error);
+    console.log("Error occured in pinned projects 2", JSON.stringify(error));
+  });

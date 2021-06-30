@@ -21,6 +21,10 @@
 .skills-main-div > * {
   flex: 1;
   margin-bottom: 30px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .skills-image-div > * {

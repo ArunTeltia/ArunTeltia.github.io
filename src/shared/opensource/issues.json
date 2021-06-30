@@ -1,1 +1,989 @@
-{"data":[{"id":"MDU6SXNzdWU3MzE1MTUxNDA=","closed":true,"title":"JQuery -> Vanilla Javascript","createdAt":"2020-10-28T14:50:52Z","url":"https://github.com/internetarchive/bookreader/issues/521","number":521,"assignees":{"nodes":[]},"repository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"login":"internetarchive","avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","url":"https://github.com/internetarchive"}}},{"id":"MDU6SXNzdWU3MjE5MzAyMDU=","closed":true,"title":"wrong video link in installation section inREADME.md","createdAt":"2020-10-15T02:55:50Z","url":"https://github.com/internetarchive/openlibrary/issues/3920","number":3920,"assignees":{"nodes":[]},"repository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"login":"internetarchive","avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","url":"https://github.com/internetarchive"}}},{"id":"MDU6SXNzdWU3MjE4NTY5OTA=","closed":true,"title":"database not loading the data on running the openlibrary with docker","createdAt":"2020-10-14T23:20:21Z","url":"https://github.com/internetarchive/openlibrary/issues/3919","number":3919,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/3709715?u=0745d1d2473894c33f3b35f0b965d71cc9aec553&v=4","name":"Christian Clauss","url":"https://github.com/cclauss"}]},"repository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"login":"internetarchive","avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","url":"https://github.com/internetarchive"}}},{"id":"MDU6SXNzdWU3MjEyNzU0NzY=","closed":true,"title":"Button Text \"Check Availability\" overflows ","createdAt":"2020-10-14T08:59:12Z","url":"https://github.com/internetarchive/openlibrary/issues/3916","number":3916,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/43555219?u=460053566641a1f5a0218660b1abfa3141fe94aa&v=4","name":"Arun Teltia","url":"https://github.com/ArunTeltia"}]},"repository":{"name":"openlibrary","url":"https://github.com/internetarchive/openlibrary","owner":{"login":"internetarchive","avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","url":"https://github.com/internetarchive"}}},{"id":"MDU6SXNzdWU3MTg5MTUxNjE=","closed":true,"title":"RightLeaf->pages showing unexpected behaviour in BookReaderDemo","createdAt":"2020-10-11T20:00:07Z","url":"https://github.com/internetarchive/bookreader/issues/497","number":497,"assignees":{"nodes":[]},"repository":{"name":"bookreader","url":"https://github.com/internetarchive/bookreader","owner":{"login":"internetarchive","avatarUrl":"https://avatars.githubusercontent.com/u/130493?v=4","url":"https://github.com/internetarchive"}}},{"id":"MDU6SXNzdWU3MTg2Nzc3MTk=","closed":true,"title":"Push something in this repository this time ","createdAt":"2020-10-10T18:37:40Z","url":"https://github.com/mohitpanwar09/SuperMario_Clone/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"SuperMario_Clone","url":"https://github.com/mohitpanwar09/SuperMario_Clone","owner":{"login":"mohitpanwar09","avatarUrl":"https://avatars.githubusercontent.com/u/51272659?u=fffcd1016a21f2fe72d8a585ee7fb834fbaae931&v=4","url":"https://github.com/mohitpanwar09"}}},{"id":"MDU6SXNzdWU3MTY3ODQ3MzA=","closed":false,"title":"Can i convert the project from jquery to vanilla javascript?","createdAt":"2020-10-07T19:13:47Z","url":"https://github.com/lakshita15/EXCEL_CLONE/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"EXCEL_CLONE","url":"https://github.com/lakshita15/EXCEL_CLONE","owner":{"login":"lakshita15","avatarUrl":"https://avatars.githubusercontent.com/u/66481666?u=5fa2d5b5dddd8978bdde36f154168c5dc1c4c326&v=4","url":"https://github.com/lakshita15"}}},{"id":"MDU6SXNzdWU3MTQ0NzY4Mjk=","closed":false,"title":"make semi colon field = always in eslint","createdAt":"2020-10-05T03:11:25Z","url":"https://github.com/codeforcauseorg/codeforcause.org/issues/122","number":122,"assignees":{"nodes":[]},"repository":{"name":"codeforcause.org","url":"https://github.com/codeforcauseorg/codeforcause.org","owner":{"login":"codeforcauseorg","avatarUrl":"https://avatars.githubusercontent.com/u/64211771?v=4","url":"https://github.com/codeforcauseorg"}}},{"id":"MDU6SXNzdWU3MTQzNTQ4NzQ=","closed":true,"title":"Scrollbar looks dull in the website ","createdAt":"2020-10-04T16:52:50Z","url":"https://github.com/codeforcauseorg/codeforcause.org/issues/119","number":119,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/43555219?u=460053566641a1f5a0218660b1abfa3141fe94aa&v=4","name":"Arun Teltia","url":"https://github.com/ArunTeltia"}]},"repository":{"name":"codeforcause.org","url":"https://github.com/codeforcauseorg/codeforcause.org","owner":{"login":"codeforcauseorg","avatarUrl":"https://avatars.githubusercontent.com/u/64211771?v=4","url":"https://github.com/codeforcauseorg"}}},{"id":"MDU6SXNzdWU2NDMzMjI0Njg=","closed":true,"title":"I want to contribute in it","createdAt":"2020-06-22T19:54:11Z","url":"https://github.com/codeforcauseorg/under-construction/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"under-construction","url":"https://github.com/codeforcauseorg/under-construction","owner":{"login":"codeforcauseorg","avatarUrl":"https://avatars.githubusercontent.com/u/64211771?v=4","url":"https://github.com/codeforcauseorg"}}},{"id":"MDU6SXNzdWU2NDI1OTgyMDc=","closed":true,"title":"There is some problem with the css the text is not at center you can change that by aligning that to center try to change that","createdAt":"2020-06-21T16:40:41Z","url":"https://github.com/AdityaTeltia/Netflix-Frontend/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"Netflix-Frontend","url":"https://github.com/AdityaTeltia/Netflix-Frontend","owner":{"login":"AdityaTeltia","avatarUrl":"https://avatars.githubusercontent.com/u/67232537?u=c20fab0b3facf4563dfb0ec86dbba5c1693ecd25&v=4","url":"https://github.com/AdityaTeltia"}}},{"id":"MDU6SXNzdWU2MzYzMzMzMzQ=","closed":true,"title":"The gender not getting store during the sign up","createdAt":"2020-06-10T15:14:44Z","url":"https://github.com/coding-blocks/oneauth/issues/1025","number":1025,"assignees":{"nodes":[]},"repository":{"name":"oneauth","url":"https://github.com/coding-blocks/oneauth","owner":{"login":"coding-blocks","avatarUrl":"https://avatars.githubusercontent.com/u/19412721?v=4","url":"https://github.com/coding-blocks"}}},{"id":"MDU6SXNzdWU2MjAzMDkxMjY=","closed":true,"title":"Login with OTP text on button not visible clearly in mobile version #987","createdAt":"2020-05-18T15:38:43Z","url":"https://github.com/coding-blocks/motley/issues/435","number":435,"assignees":{"nodes":[]},"repository":{"name":"motley","url":"https://github.com/coding-blocks/motley","owner":{"login":"coding-blocks","avatarUrl":"https://avatars.githubusercontent.com/u/19412721?v=4","url":"https://github.com/coding-blocks"}}},{"id":"MDU6SXNzdWU2MTUwOTI4NTE=","closed":false,"title":"Practice Issue","createdAt":"2020-05-09T04:58:58Z","url":"https://github.com/CodingTrain/Rainbow-Poem/issues/2339","number":2339,"assignees":{"nodes":[]},"repository":{"name":"Rainbow-Poem","url":"https://github.com/CodingTrain/Rainbow-Poem","owner":{"login":"CodingTrain","avatarUrl":"https://avatars.githubusercontent.com/u/18553964?v=4","url":"https://github.com/CodingTrain"}}},{"id":"MDU6SXNzdWU1NTY0MzkzOTU=","closed":true,"title":"App.js","createdAt":"2020-01-28T20:07:09Z","url":"https://github.com/bradtraversy/devconnector_2.0/issues/68","number":68,"assignees":{"nodes":[]},"repository":{"name":"devconnector_2.0","url":"https://github.com/bradtraversy/devconnector_2.0","owner":{"login":"bradtraversy","avatarUrl":"https://avatars.githubusercontent.com/u/5550850?u=fd608e37006781e0847825dc4045469eb4efbeed&v=4","url":"https://github.com/bradtraversy"}}}],"open":3,"closed":12,"totalCount":15}
+{
+  "closed": 36,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU5MDY3MjYxNTk=",
+      "closed": true,
+      "title": "Sakura on Redmi note 7 wen?",
+      "createdAt": "2021-05-30T11:34:18Z",
+      "url": "https://github.com/ProjectSakura/Bug_Tracker/issues/28",
+      "number": 28,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Bug_Tracker",
+        "url": "https://github.com/ProjectSakura/Bug_Tracker",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NjU5OTE5MDk=",
+      "closed": true,
+      "title": "Donation Link for maintainers",
+      "createdAt": "2021-04-23T10:46:08Z",
+      "url": "https://github.com/ProjectSakura/OTA/issues/166",
+      "number": 166,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "OTA",
+        "url": "https://github.com/ProjectSakura/OTA",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NjQ1NDYzNjc=",
+      "closed": true,
+      "title": "Deployment Script ",
+      "createdAt": "2021-04-22T05:11:17Z",
+      "url": "https://github.com/ProjectSakura/maintainers/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "maintainers",
+        "url": "https://github.com/ProjectSakura/maintainers",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NjMzMTExNzQ=",
+      "closed": true,
+      "title": "How to run this extension locally",
+      "createdAt": "2021-04-20T23:08:50Z",
+      "url": "https://github.com/polywock/globalSpeed/issues/81",
+      "number": 81,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "globalSpeed",
+        "url": "https://github.com/polywock/globalSpeed",
+        "owner": {
+          "login": "polywock",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/31208859?v=4",
+          "url": "https://github.com/polywock"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NDk0NDA2MzI=",
+      "closed": true,
+      "title": "Add Meta Tags for SEO ",
+      "createdAt": "2021-04-02T19:56:11Z",
+      "url": "https://github.com/ProjectSakura/wiki/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/59244300?u=9eca520a0e42107458eb59429c6948d5d5bb1959&v=4",
+            "name": "Diksha Patro B",
+            "url": "https://github.com/FireQueen-3010"
+          }
+        ]
+      },
+      "repository": {
+        "name": "wiki",
+        "url": "https://github.com/ProjectSakura/wiki",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NDQxNjQ3NDQ=",
+      "closed": true,
+      "title": "Rewriting the contributing.md and explain the download page is unsupported",
+      "createdAt": "2021-03-30T07:21:47Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/206",
+      "number": 206,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NDQxNTc0ODQ=",
+      "closed": true,
+      "title": "Download Page Unsupported Details ",
+      "createdAt": "2021-03-30T07:12:37Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/205",
+      "number": 205,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NDMxOTQyNjM=",
+      "closed": true,
+      "title": "making the navbar in OL keyboard accessible",
+      "createdAt": "2021-03-29T09:48:48Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/4929",
+      "number": 4929,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43555219?u=635c2bc3b0289aabeaed2af2903be0a76dfeff71&v=4",
+            "name": "Arun Teltia",
+            "url": "https://github.com/ArunTeltia"
+          }
+        ]
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzM4NTMzMjY=",
+      "closed": true,
+      "title": "> I changed @LordShenron every single one of them joy",
+      "createdAt": "2021-03-17T14:46:57Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/174",
+      "number": 174,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzMzNzkzNzY=",
+      "closed": true,
+      "title": "Another test",
+      "createdAt": "2021-03-17T04:02:56Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/168",
+      "number": 168,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzMzNzY3MTk=",
+      "closed": true,
+      "title": "Test Issue",
+      "createdAt": "2021-03-17T03:55:19Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/166",
+      "number": 166,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzEyNjE2NzQ=",
+      "closed": true,
+      "title": "Remove Logs from the console in website ",
+      "createdAt": "2021-03-14T21:14:29Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/150",
+      "number": 150,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64403591?v=4",
+            "name": "cryptofox",
+            "url": "https://github.com/cryptofox17"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzExNTYyNTE=",
+      "closed": true,
+      "title": "Redesigning navbar in stats and home page to the home page navbar",
+      "createdAt": "2021-03-14T13:28:04Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/149",
+      "number": 149,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52232900?u=2f133c174095a2cbfd3d1d8ee77e6e2bf736c912&v=4",
+            "name": "Divyanshu Soni",
+            "url": "https://github.com/dcs-soni"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzAyNzEyNzE=",
+      "closed": true,
+      "title": "Redesigning of the screenshot section on the Home Page ",
+      "createdAt": "2021-03-12T16:24:54Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/139",
+      "number": 139,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65373279?u=c0f223b66bfa0543fd9da8f79f99f8a9105275de&v=4",
+            "name": "Devraj Chatribin",
+            "url": "https://github.com/DevrajDC"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjc5NDg5MDg=",
+      "closed": true,
+      "title": "In the /subjects there are some input inbox box at every navbar and also the hamburger icon on expand overlap with browse",
+      "createdAt": "2021-03-10T15:52:13Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/4789",
+      "number": 4789,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjc1NTQ0MjU=",
+      "closed": false,
+      "title": "Hamburger sign in the home page in mobile view duplicates items in more menu",
+      "createdAt": "2021-03-10T11:08:46Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/4788",
+      "number": 4788,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjc1MTk4MDc=",
+      "closed": false,
+      "title": "in /subjects can we put the title for the subject in the same line as of sub titles",
+      "createdAt": "2021-03-10T10:43:10Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/4787",
+      "number": 4787,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjc1MDIwOTI=",
+      "closed": false,
+      "title": "Subject are barely readable by users when someone came to check the book",
+      "createdAt": "2021-03-10T10:30:07Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/4786",
+      "number": 4786,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MjYwNDM3NDg=",
+      "closed": true,
+      "title": "UI issue within the websites",
+      "createdAt": "2021-03-09T14:47:02Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/120",
+      "number": 120,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MjYwNDA1NzM=",
+      "closed": true,
+      "title": "Refractor the scripts ",
+      "createdAt": "2021-03-09T14:44:54Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/119",
+      "number": 119,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70755131?v=4",
+            "name": null,
+            "url": "https://github.com/Preeti2095"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MjYwMzU4Nzk=",
+      "closed": true,
+      "title": "Upgrade the model of the bootstrap from 3 to 4 ",
+      "createdAt": "2021-03-09T14:41:50Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/118",
+      "number": 118,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/49186033?v=4",
+            "name": "Pradhuman",
+            "url": "https://github.com/gaulghost"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MjYwMzIzMjg=",
+      "closed": true,
+      "title": "Refractor the html page ",
+      "createdAt": "2021-03-09T14:39:27Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/117",
+      "number": 117,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/72553479?v=4",
+            "name": "Shivam Shandilya",
+            "url": "https://github.com/Shivam-Shandilya1"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MjYwMjI2MTQ=",
+      "closed": true,
+      "title": "Remove dead code",
+      "createdAt": "2021-03-09T14:32:53Z",
+      "url": "https://github.com/ProjectSakura/ProjectSakura.github.io/issues/116",
+      "number": 116,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/56486309?u=c9b17d2ce932e51be274ea6e46da5fba3c1314bb&v=4",
+            "name": "Rahul Bansal",
+            "url": "https://github.com/RahulBansal0502"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ProjectSakura.github.io",
+        "url": "https://github.com/ProjectSakura/ProjectSakura.github.io",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MTAxMTIyMTA=",
+      "closed": true,
+      "title": "siteSearch is id but being continuously used in the same page ",
+      "createdAt": "2021-02-17T11:46:47Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/4619",
+      "number": 4619,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MDg2NzE0OTc=",
+      "closed": true,
+      "title": "Amazing Project",
+      "createdAt": "2021-02-15T16:24:41Z",
+      "url": "https://github.com/krtr/TibiaJS/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "TibiaJS",
+        "url": "https://github.com/krtr/TibiaJS",
+        "owner": {
+          "login": "krtr",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/8374421?u=323d5e54d6f88b831d916d2d4051edce9b135aeb&v=4",
+          "url": "https://github.com/krtr"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQyMjAyNTM=",
+      "closed": true,
+      "title": "The navbar should hide from viewmanga",
+      "createdAt": "2021-02-09T05:26:54Z",
+      "url": "https://github.com/ProjectSakura/Mirai/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44357051?v=4",
+            "name": "Vishal Jha",
+            "url": "https://github.com/Vishal1003"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Mirai",
+        "url": "https://github.com/ProjectSakura/Mirai",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQyMTI2MTM=",
+      "closed": false,
+      "title": "Converting .then promises to async await syntax(ES6)",
+      "createdAt": "2021-02-09T05:11:36Z",
+      "url": "https://github.com/ProjectSakura/Mirai/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52620158?u=2cf49a83e032838cc01810ce98e5af0aec7b2345&v=4",
+            "name": "Ayush Singh",
+            "url": "https://github.com/singhayushh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Mirai",
+        "url": "https://github.com/ProjectSakura/Mirai",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQyMTAyNzA=",
+      "closed": true,
+      "title": "Light Novel Scraping ",
+      "createdAt": "2021-02-09T05:06:37Z",
+      "url": "https://github.com/ProjectSakura/Mirai/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/71025509?u=b92acf750cf9c91297a55ecc6cd8a48edb0857d1&v=4",
+            "name": null,
+            "url": "https://github.com/Abhi-1313"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Mirai",
+        "url": "https://github.com/ProjectSakura/Mirai",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQyMDc2NDE=",
+      "closed": false,
+      "title": "Modular code needed",
+      "createdAt": "2021-02-09T05:01:00Z",
+      "url": "https://github.com/ProjectSakura/Mirai/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52620158?u=2cf49a83e032838cc01810ce98e5af0aec7b2345&v=4",
+            "name": "Ayush Singh",
+            "url": "https://github.com/singhayushh"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Mirai",
+        "url": "https://github.com/ProjectSakura/Mirai",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MDQyMDY1MDU=",
+      "closed": true,
+      "title": "Routes are not protected from bugs ",
+      "createdAt": "2021-02-09T04:58:41Z",
+      "url": "https://github.com/ProjectSakura/Mirai/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/59313375?v=4",
+            "name": "Priyanshu Sharma",
+            "url": "https://github.com/priyanshu20"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Mirai",
+        "url": "https://github.com/ProjectSakura/Mirai",
+        "owner": {
+          "login": "ProjectSakura",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60218698?v=4",
+          "url": "https://github.com/ProjectSakura"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzE1MTUxNDA=",
+      "closed": true,
+      "title": "JQuery -> Vanilla Javascript",
+      "createdAt": "2020-10-28T14:50:52Z",
+      "url": "https://github.com/internetarchive/bookreader/issues/521",
+      "number": 521,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjE5MzAyMDU=",
+      "closed": true,
+      "title": "wrong video link in installation section inREADME.md",
+      "createdAt": "2020-10-15T02:55:50Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/3920",
+      "number": 3920,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjE4NTY5OTA=",
+      "closed": true,
+      "title": "database not loading the data on running the openlibrary with docker",
+      "createdAt": "2020-10-14T23:20:21Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/3919",
+      "number": 3919,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3709715?u=0745d1d2473894c33f3b35f0b965d71cc9aec553&v=4",
+            "name": "Christian Clauss",
+            "url": "https://github.com/cclauss"
+          }
+        ]
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjEyNzU0NzY=",
+      "closed": true,
+      "title": "Button Text \"Check Availability\" overflows ",
+      "createdAt": "2020-10-14T08:59:12Z",
+      "url": "https://github.com/internetarchive/openlibrary/issues/3916",
+      "number": 3916,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43555219?u=635c2bc3b0289aabeaed2af2903be0a76dfeff71&v=4",
+            "name": "Arun Teltia",
+            "url": "https://github.com/ArunTeltia"
+          }
+        ]
+      },
+      "repository": {
+        "name": "openlibrary",
+        "url": "https://github.com/internetarchive/openlibrary",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTg5MTUxNjE=",
+      "closed": true,
+      "title": "RightLeaf->pages showing unexpected behaviour in BookReaderDemo",
+      "createdAt": "2020-10-11T20:00:07Z",
+      "url": "https://github.com/internetarchive/bookreader/issues/497",
+      "number": 497,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bookreader",
+        "url": "https://github.com/internetarchive/bookreader",
+        "owner": {
+          "login": "internetarchive",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/130493?v=4",
+          "url": "https://github.com/internetarchive"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTg2Nzc3MTk=",
+      "closed": true,
+      "title": "Push something in this repository this time ",
+      "createdAt": "2020-10-10T18:37:40Z",
+      "url": "https://github.com/mohitpanwar09/SuperMario_Clone/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "SuperMario_Clone",
+        "url": "https://github.com/mohitpanwar09/SuperMario_Clone",
+        "owner": {
+          "login": "mohitpanwar09",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51272659?v=4",
+          "url": "https://github.com/mohitpanwar09"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTY3ODQ3MzA=",
+      "closed": false,
+      "title": "Can i convert the project from jquery to vanilla javascript?",
+      "createdAt": "2020-10-07T19:13:47Z",
+      "url": "https://github.com/lakshita15/EXCEL_CLONE/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "EXCEL_CLONE",
+        "url": "https://github.com/lakshita15/EXCEL_CLONE",
+        "owner": {
+          "login": "lakshita15",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/66481666?u=5fa2d5b5dddd8978bdde36f154168c5dc1c4c326&v=4",
+          "url": "https://github.com/lakshita15"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTQ0NzY4Mjk=",
+      "closed": false,
+      "title": "make semi colon field = always in eslint",
+      "createdAt": "2020-10-05T03:11:25Z",
+      "url": "https://github.com/codeforcauseorg/codeforcause.org/issues/122",
+      "number": 122,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "codeforcause.org",
+        "url": "https://github.com/codeforcauseorg/codeforcause.org",
+        "owner": {
+          "login": "codeforcauseorg",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64211771?v=4",
+          "url": "https://github.com/codeforcauseorg"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTQzNTQ4NzQ=",
+      "closed": true,
+      "title": "Scrollbar looks dull in the website ",
+      "createdAt": "2020-10-04T16:52:50Z",
+      "url": "https://github.com/codeforcauseorg/codeforcause.org/issues/119",
+      "number": 119,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43555219?u=635c2bc3b0289aabeaed2af2903be0a76dfeff71&v=4",
+            "name": "Arun Teltia",
+            "url": "https://github.com/ArunTeltia"
+          }
+        ]
+      },
+      "repository": {
+        "name": "codeforcause.org",
+        "url": "https://github.com/codeforcauseorg/codeforcause.org",
+        "owner": {
+          "login": "codeforcauseorg",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64211771?v=4",
+          "url": "https://github.com/codeforcauseorg"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NDMzMjI0Njg=",
+      "closed": true,
+      "title": "I want to contribute in it",
+      "createdAt": "2020-06-22T19:54:11Z",
+      "url": "https://github.com/codeforcauseorg/under-construction/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "under-construction",
+        "url": "https://github.com/codeforcauseorg/under-construction",
+        "owner": {
+          "login": "codeforcauseorg",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64211771?v=4",
+          "url": "https://github.com/codeforcauseorg"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NDI1OTgyMDc=",
+      "closed": true,
+      "title": "There is some problem with the css the text is not at center you can change that by aligning that to center try to change that",
+      "createdAt": "2020-06-21T16:40:41Z",
+      "url": "https://github.com/AdityaTeltia/Netflix-Frontend/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Netflix-Frontend",
+        "url": "https://github.com/AdityaTeltia/Netflix-Frontend",
+        "owner": {
+          "login": "AdityaTeltia",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67232537?u=c20fab0b3facf4563dfb0ec86dbba5c1693ecd25&v=4",
+          "url": "https://github.com/AdityaTeltia"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MjAzMDkxMjY=",
+      "closed": true,
+      "title": "Login with OTP text on button not visible clearly in mobile version #987",
+      "createdAt": "2020-05-18T15:38:43Z",
+      "url": "https://github.com/coding-blocks/motley/issues/435",
+      "number": 435,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "motley",
+        "url": "https://github.com/coding-blocks/motley",
+        "owner": {
+          "login": "coding-blocks",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19412721?v=4",
+          "url": "https://github.com/coding-blocks"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MTUwOTI4NTE=",
+      "closed": false,
+      "title": "Practice Issue",
+      "createdAt": "2020-05-09T04:58:58Z",
+      "url": "https://github.com/CodingTrain/Rainbow-Poem/issues/2339",
+      "number": 2339,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Rainbow-Poem",
+        "url": "https://github.com/CodingTrain/Rainbow-Poem",
+        "owner": {
+          "login": "CodingTrain",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/18553964?v=4",
+          "url": "https://github.com/CodingTrain"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NTY0MzkzOTU=",
+      "closed": true,
+      "title": "App.js",
+      "createdAt": "2020-01-28T20:07:09Z",
+      "url": "https://github.com/bradtraversy/devconnector_2.0/issues/68",
+      "number": 68,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devconnector_2.0",
+        "url": "https://github.com/bradtraversy/devconnector_2.0",
+        "owner": {
+          "login": "bradtraversy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5550850?u=819e4404506d906d5113cc352b560fcfd242cce3&v=4",
+          "url": "https://github.com/bradtraversy"
+        }
+      }
+    }
+  ],
+  "open": 8,
+  "totalCount": 44
+}
