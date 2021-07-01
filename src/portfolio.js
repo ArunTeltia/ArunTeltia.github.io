@@ -10,7 +10,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable, social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/1rnyVtNmKHcjLt6JQMiuTRkC6LBPacFqW/view?usp=sharing",
   portfolio_repository: "https://github.com/ArunTeltia/ArunTeltia.github.io",
 };
 
